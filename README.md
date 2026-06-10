@@ -1,4 +1,6 @@
-# Olá, eu sou o Igor Gaspar! 👋
+# 🧑🏽‍💻 Igor Gaspar
+
+**`Desenvolvedor FullStack | Engenheiro de IA`**
 
 Sou um **Desenvolvedor Fullstack** focado em construir soluções robustas, eficientes e escaláveis. Tenho forte vivência no desenvolvimento de ponta a ponta, unindo a performance do back-end com interfaces dinâmicas no front-end. 
 
@@ -10,6 +12,23 @@ Atualmente, estou me aprofundando cada vez mais no universo da Inteligência Art
 * 🎓 Atualmente cursando **MBA e Mestrado em Negócios e Inteligência Artificial**, unindo visão estratégica e inovação tecnológica.
 * 💡 Tenho grande interesse em **Automação, Agentes Autônomos e Integrações de IA** (como processamento de voz, avatares digitais e fluxos generativos).
 * 🚀 Sempre em busca de otimizar arquiteturas, focando em performance, boas práticas e código limpo.
+
+---
+
+### 📊 Minhas Estatísticas
+
+<table align="left" border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-beige-nine-70.vercel.app/api?username=IgorGaspar&include_all_commits=true&count_private=true&theme=gotham&show_icons=true" alt="Estatísticas Gerais" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-beige-nine-70.vercel.app/api/top-langs/?username=IgorGaspar&layout=compact&theme=gotham&exclude_repo=wav2lip-python" alt="Linguagens mais usadas" />
+    </td>
+  </tr>
+</table>
+
+<br clear="both">
 
 ---
 
