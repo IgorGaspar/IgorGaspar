@@ -1,23 +1,70 @@
-# 🧑🏽‍💻 Igor Gaspar
+# Igor Gaspar 👋
 
-**`Desenvolvedor FullStack | Engenheiro de IA`**
+### 🤖 Engenheiro de IA | 💻 Desenvolvedor Fullstack
 
-Sou um **Desenvolvedor Fullstack** focado em construir soluções robustas, eficientes e escaláveis. Tenho forte vivência no desenvolvimento de ponta a ponta, unindo a performance do back-end com interfaces dinâmicas no front-end. 
+Desenvolvedor Fullstack com foco em arquiteturas escaláveis, performance e integração de Inteligência Artificial ao ciclo de vida de desenvolvimento de software. Especialista em **AI-Driven Development**, orquestração de **Agentes Autônomos**, fluxos com **LLMs/MCP** e construção de ecossistemas web/mobile de alta complexidade.
 
-Atualmente, estou me aprofundando cada vez mais no universo da Inteligência Artificial e em como integrá-la a produtos reais para gerar valor.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igorfgaspar/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:igorfgaspar@outlook.com)
 
-### 👨‍💻 Sobre mim
+---
 
-* 💼 Trabalho no desenvolvimento de softwares e plataformas complexas (atuando com desenvolvimento Fullstack).
-* 🎓 Atualmente cursando **MBA e Mestrado em Negócios e Inteligência Artificial**, unindo visão estratégica e inovação tecnológica.
-* 💡 Tenho grande interesse em **Automação, Agentes Autônomos e Integrações de IA** (como processamento de voz, avatares digitais e fluxos generativos).
-* 🚀 Sempre em busca de otimizar arquiteturas, focando em performance, boas práticas e código limpo.
+### 🚀 Sobre Mim
+
+- 💼 **Atuação Profissional:** Desenvolvedor Fullstack na **Farmarcas**, atuando no desenho e liderança técnica de soluções com .NET, Node.js, React e Angular.
+- 🎓 **Formação Contínua:** Cursando **Mestrado & MBA em Negócios e Inteligência Artificial**, unindo excelência técnica com impacto estratégico de negócio.
+- 🧠 **Especialidade em IA:** Implementação de fluxos com MCP (Model Context Protocol), arquiteturas RAG, automações complexas com n8n, Agentes Autônomos e ambientes com Claude CLI / Cursor.
+- ⚙️ **Qualidade & Engenharia:** Foco em Clean Architecture, SOLID, Design Systems, testes automatizados e microsserviços resilientes.
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+| Categoria | Stack |
+| :--- | :--- |
+| **Inteligência Artificial & Automação** | `AI-Driven Development` `Agentes Autônomos` `MCP` `RAG` `Prompt Engineering` `Cursor` `GitHub Copilot` `Claude` `n8n` |
+| **Front-end & Mobile** | `React.js` `React Native` `Angular` `TypeScript` `JavaScript (ES6+)` `Next.js` `Tailwind CSS` `Design Systems` |
+| **Back-end & Arquitetura** | `C# / .NET Core` `Node.js` `Python` `APIs RESTful` `Microsserviços` `Clean Architecture` `SOLID` |
+| **Bancos de Dados & DevOps** | `SQL Server` `MySQL` `MongoDB` `Docker` `Git / GitHub Actions` `Linux VPS` `Vitest` `CI/CD` |
+
+---
+
+### 🌟 Projetos & Cases de Engenharia
+
+<!-- CASE 1 -->
+<details open>
+<summary><b>🤖 Monai — Gestão Financeira Inteligente com IA</b> <code>Enterprise / Closed Source</code></summary>
+<p align="center">
+  <img src="assets/monai.gif" alt="Demonstração Monai Finanças" width="100%" />
+</p>
+
+* **Desafio:** Centralização e controle financeiro avançado, permitindo projeção orçamentária contínua, categorização analítica de gastos, conciliação de fluxo de caixa e gestão automatizada de contas fixas e receitas.
+* **Solução Técnica:** Interface reativa e performática construída para visualização de dados e cenários preditivos em tempo real, aliada a rotinas automatizadas e integração com IA para análise de consumo, relatórios dinâmicos e insights financeiros inteligentes.
+* **Stack:** `TypeScript` `React / Next.js` `Node.js` `Tailwind CSS` `LLM Integration / IA` `PostgreSQL / MongoDB`
+
+<img width="1274" height="903" alt="monai" src="https://github.com/user-attachments/assets/e6627e9f-0bc9-4b46-a5cf-ee52214be7d5" />
+</details>
+
+
+<!-- CASE 2: ESTETICAAH -->
+<details>
+<summary><b>✨ EstetiCaah — Plataforma Web de Estética Avançada & Assistente IA</b> <code>Production / Live</code></summary>
+<p align="center">
+  <img src="assets/esteticaah.gif" alt="Demonstração EstetiCaah" width="100%" />
+</p>
+
+* **Desafio:** Criação de uma presença digital sofisticada e de alta conversão para clínica de estética avançada, unindo autoridade visual (UI/UX premium), apresentação interativa de procedimentos e automação no atendimento ao paciente.
+* **Solução Técnica:** Interface moderna desenvolvida com componentes reutilizáveis, animações fluidas e otimização de SEO/performance. Integração com a **Luna**, assistente virtual inteligente focada em atendimento humanizado, triagem de dúvidas, apresentação de protocolos e direcionamento automatizado para agendamentos.
+* **Stack:** `React / Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `IA / Chatbot Integration (Typebot)` `Vercel`
+* **Deploy em Produção:** [esteticaah.vercel.app](https://esteticaah.vercel.app/)
+<img width="1207" height="903" alt="esteticaah" src="https://github.com/user-attachments/assets/50fe11b6-d490-48b0-8a4d-24e2f246c5e5" />
+</details>
 
 ---
 
 ### 📊 Minhas Estatísticas
 
-<table align="left" border="0">
+<table align="center" border="0">
   <tr>
     <td>
       <img src="https://github-readme-stats-beige-nine-70.vercel.app/api?username=IgorGaspar&include_all_commits=true&count_private=true&theme=gotham&show_icons=true" alt="Estatísticas Gerais" />
@@ -29,27 +76,3 @@ Atualmente, estou me aprofundando cada vez mais no universo da Inteligência Art
 </table>
 
 <br clear="both">
-
----
-
-### 🛠️ Minha Stack Principal
-
-**Back-end & Arquitetura:**
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Front-end:**
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
----
-
-### 📫 Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorfgaspar/)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorfgaspar@outlook.com)
