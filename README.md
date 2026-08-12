@@ -34,32 +34,33 @@ Desenvolvedor Fullstack com foco em arquiteturas escaláveis, performance e inte
 <!-- CASE 1 -->
 <details open>
 <summary><b>🤖 Monai — Gestão Financeira Inteligente com IA</b> <code>Enterprise / Closed Source</code></summary>
+<br>
+
 <p align="center">
-  <img src="assets/monai.gif" alt="Demonstração Monai Finanças" width="100%" />
+  <img width="100%" alt="Demonstração Monai Finanças" src="https://github.com/user-attachments/assets/e6627e9f-0bc9-4b46-a5cf-ee52214be7d5" />
 </p>
 
 * **Desafio:** Centralização e controle financeiro avançado, permitindo projeção orçamentária contínua, categorização analítica de gastos, conciliação de fluxo de caixa e gestão automatizada de contas fixas e receitas.
 * **Solução Técnica:** Interface reativa e performática construída para visualização de dados e cenários preditivos em tempo real, aliada a rotinas automatizadas e integração com IA para análise de consumo, relatórios dinâmicos e insights financeiros inteligentes.
 * **Stack:** `TypeScript` `React / Next.js` `Node.js` `Tailwind CSS` `LLM Integration / IA` `PostgreSQL / MongoDB`
-
-<img width="1274" height="903" alt="monai" src="https://github.com/user-attachments/assets/e6627e9f-0bc9-4b46-a5cf-ee52214be7d5" />
 </details>
 
+<br>
 
 <!-- CASE 2: ESTETICAAH -->
 <details>
 <summary><b>✨ EstetiCaah — Plataforma Web de Estética Avançada & Assistente IA</b> <code>Production / Live</code></summary>
+<br>
+
 <p align="center">
-  <img src="assets/esteticaah.gif" alt="Demonstração EstetiCaah" width="100%" />
+  <img width="100%" alt="Demonstração EstetiCaah" src="https://github.com/user-attachments/assets/50fe11b6-d490-48b0-8a4d-24e2f246c5e5" />
 </p>
 
 * **Desafio:** Criação de uma presença digital sofisticada e de alta conversão para clínica de estética avançada, unindo autoridade visual (UI/UX premium), apresentação interativa de procedimentos e automação no atendimento ao paciente.
 * **Solução Técnica:** Interface moderna desenvolvida com componentes reutilizáveis, animações fluidas e otimização de SEO/performance. Integração com a **Luna**, assistente virtual inteligente focada em atendimento humanizado, triagem de dúvidas, apresentação de protocolos e direcionamento automatizado para agendamentos.
 * **Stack:** `React / Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `IA / Chatbot Integration (Typebot)` `Vercel`
 * **Deploy em Produção:** [esteticaah.vercel.app](https://esteticaah.vercel.app/)
-<img width="1207" height="903" alt="esteticaah" src="https://github.com/user-attachments/assets/50fe11b6-d490-48b0-8a4d-24e2f246c5e5" />
 </details>
-
 ---
 
 ### 📊 Minhas Estatísticas
