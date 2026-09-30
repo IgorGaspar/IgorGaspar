@@ -43,9 +43,13 @@ Desenvolvedor Fullstack com foco em arquiteturas escaláveis, performance e inte
 * **Desafio:** Centralização e controle financeiro avançado, permitindo projeção orçamentária contínua, categorização analítica de gastos, conciliação de fluxo de caixa e gestão automatizada de contas fixas e receitas.
 * **Solução Técnica:** Interface reativa e performática construída para visualização de dados e cenários preditivos em tempo real, aliada a rotinas automatizadas e integração com IA para análise de consumo, relatórios dinâmicos e insights financeiros inteligentes.
 * **Stack:** `TypeScript` `React / Next.js` `Node.js` `Tailwind CSS` `LLM Integration / IA` `PostgreSQL / MongoDB`
+* **Deploy em Produção:** [monai.page](https://monai.page/)
+
 </details>
 
 <br>
+
+---
 
 <!-- CASE 2: ESTETICAAH -->
 <details>
@@ -61,19 +65,5 @@ Desenvolvedor Fullstack com foco em arquiteturas escaláveis, performance e inte
 * **Stack:** `React / Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `IA / Chatbot Integration (Typebot)` `Vercel`
 * **Deploy em Produção:** [esteticaah.vercel.app](https://esteticaah.vercel.app/)
 </details>
+
 ---
-
-### 📊 Minhas Estatísticas
-
-<table align="center" border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-beige-nine-70.vercel.app/api?username=IgorGaspar&include_all_commits=true&count_private=true&theme=gotham&show_icons=true" alt="Estatísticas Gerais" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats-beige-nine-70.vercel.app/api/top-langs/?username=IgorGaspar&layout=compact&theme=gotham&exclude_repo=wav2lip-python" alt="Linguagens mais usadas" />
-    </td>
-  </tr>
-</table>
-
-<br clear="both">
